@@ -1,0 +1,25 @@
+_repo: Keisarinna-Elisabet_65057
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tschudi, Clara
+    birthdate: 1856
+    deathdate: 1945
+    gutenberg_agent_id: '44863'
+    url: http://www.gutenberg.org/2009/agents/44863
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Clara_Tschudi
+    - https://no.wikipedia.org/wiki/Clara_Tschudi
+description: ''
+gutenberg_issued: '2021-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65057'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Keisarinna Elisabet
+url: http://www.gutenberg.org/ebooks/65057
